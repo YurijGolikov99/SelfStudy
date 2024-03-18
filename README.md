@@ -1,4 +1,4 @@
-# SelfStudy
+# Pet Projects
 
 ## Java
 
